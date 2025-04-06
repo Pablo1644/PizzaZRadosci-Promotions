@@ -25,7 +25,7 @@ pip install selenium
 ![Wednesday – Radość](srodaRadosc.png)
 
 ### 📅 Saturday – Radość
-![Saturday – Radość](sobotaRadosc.png)
+![Saturday – Radość](sobotaRadosc.jpg)
 Notes: <b>
 The script uses a headless Edge browser, so it runs in the background.
 </br>
