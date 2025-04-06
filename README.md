@@ -16,7 +16,7 @@ Install the required libraries by running:
 pip install selenium
 ```
 </br>
-## 🖼️ Screenshots
+🖼️ Screenshots from app
 
 ### 📅 Monday – Józefów
 ![Monday – Józefów](poniedzialekJozefow.png)
