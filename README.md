@@ -19,4 +19,8 @@ pip install selenium
 Notes: <b>
 The script uses a headless Edge browser, so it runs in the background.
 </br>
-Zoom is reduced to 10% to ensure all promotion content loads correctly. </b>
+Zoom is reduced to 10% to ensure all promotion content loads correctly. 
+</br>
+There is no constant promotions in "Józefów".
+</br>
+Days of the week/information are in polish</b>
