@@ -16,6 +16,16 @@ Install the required libraries by running:
 pip install selenium
 ```
 </br>
+## 🖼️ Screenshots
+
+### 📅 Monday – Józefów
+![Monday – Józefów](poniedzialekJozefow.png)
+
+### 📅 Wednesday – Radość
+![Wednesday – Radość](srodaRadosc.png)
+
+### 📅 Saturday – Radość
+![Saturday – Radość](sobotaRadosc.png)
 Notes: <b>
 The script uses a headless Edge browser, so it runs in the background.
 </br>
